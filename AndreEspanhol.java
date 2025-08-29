@@ -7,7 +7,7 @@ import robocode.util.*;
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.htmlj
 
 /**
- * AndreEspanhol - a robot by (Andre p. Espanhol)
+ * AndreEspanhooool - a robot by (Andre p. Espanhol)
  */
 public class AndreEspanhol extends RateControlRobot
 {
